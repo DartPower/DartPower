@@ -29,6 +29,9 @@
 # Хотите поддержать? 💵
 
 Есть ссылки на донат, на всякий случай оставлю и тут:
+
 https://qiwi.me/dartpower
+
 https://vk.me/moneysend/dartpower
+
 http://www.donationalerts.ru/r/dartpower
