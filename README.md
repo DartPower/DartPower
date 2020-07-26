@@ -1,6 +1,6 @@
 # Привет вселенная, я DartPower! 👋
 
-![Banner](https://user-images.githubusercontent.com/2005369/88478417-c94fb980-cf50-11ea-8a2e-cc64331f45e8.png)
+![Banner](https://user-images.githubusercontent.com/2005369/88491727-ebc3f000-cfad-11ea-8609-e6e7b72d5a9e.png)
 
 Всем привет! Я разрабатываю модификации для ZDoom-based портов, немного маппер. Немного знаю C#, JS, HTML5.
 
