@@ -166,28 +166,34 @@ SEGA 16-bit Новодел + Старенький MegaDrive X
 
 Хотите связаться со мной? Вот контакты для связи:
 
-👤 ВКонтакте - [Андрей Щеголев](https://vk.com/dartpower/)
+📱 Телега - [DartPower](https://t.me/DartPower)
 
-📷 YouTube - [/c/DartPower](https://www.youtube.com/c/DartPower)
+🎮 Discord - @DartPower#9034 или на сервере [DartPower Team Discord Server](https://discord.gg/74cQM9K)
+
+📷 Instagram - [@dartpower](https://www.instagram.com/dartpower/?hl=ru)
 
 🎮 Steam - [/id/DartPower/](http://steamcommunity.com/id/dartpower/)
 
 🎮 PSN - [DartPower_](https://psnprofiles.com/DartPower_)
 
-🎮 Discord - @DartPower#9034 или на сервере [DartPower Team Discord Server](https://discord.gg/74cQM9K)
-
 🎮 Xbox Live - [DartPower](https://account.xbox.com/ru-ru/profile?gamertag=DartPower)
 
-📷 Instagram - [@dartpower](https://www.instagram.com/dartpower/?hl=ru)
+📷 YouTube - [/c/DartPower](https://www.youtube.com/c/DartPower)
 
 🤖 Reddit - [u/DartPower](https://www.reddit.com/user/DartPower)
+
+Неактив (связываюсь редко):
+
+👤 ВКонтакте - [Андрей Щеголев](https://vk.com/dartpower/)
+
+📱 Скайп - skaker21
 
 # Хотите поддержать? 💵
 
 Есть ссылки на донат, на всякий случай оставлю и тут:
 
+http://www.donationalerts.ru/r/dartpower
+
 https://qiwi.me/dartpower
 
 https://vk.me/moneysend/dartpower
-
-http://www.donationalerts.ru/r/dartpower
