@@ -201,3 +201,5 @@ https://vk.me/moneysend/dartpower
 # Stonks 📈
 
 ![DartPower github stats](https://github-readme-stats.vercel.app/api?username=dartpower&show_icons=true&theme=default)
+
+![DartPower's profile views](https://gpvc.arturio.dev/dartpower)
