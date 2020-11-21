@@ -197,3 +197,17 @@ http://www.donationalerts.ru/r/dartpower
 https://qiwi.me/dartpower
 
 https://vk.me/moneysend/dartpower
+
+# Stonks 📈
+
+![DartPower github stats](https://github-readme-stats.vercel.app/api?username=dartpower&show_icons=true&theme=default)
+
+![DartPower Team github stats](https://github-readme-stats.vercel.app/api?username=dpteam&show_icons=true&theme=default)
+
+![DartPower Team Underground github stats](https://github-readme-stats.vercel.app/api?username=dptug&show_icons=true&theme=default)
+
+![DartPower Team Legacy github stats](https://github-readme-stats.vercel.app/api?username=dptetc&show_icons=true&theme=default)
+
+![DartPower Team Minecraft github stats](https://github-readme-stats.vercel.app/api?username=dptmc&show_icons=true&theme=default)
+
+![DartPorts github stats](https://github-readme-stats.vercel.app/api?username=dports&show_icons=true&theme=default)
