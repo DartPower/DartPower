@@ -8,6 +8,29 @@
 
 Самые основные проекты можно увидеть на странице вольной некоммерческой организации DartPower Team.
 
+# Интересные репозитории:
+
+DartPower Team Site | DPT.HQ
+-- | --
+[![DartPower Team Site](https://github.com/dpteam/dpt-resources/raw/master/Repos/191220_InterestingRepos/1_Overlay.mp4)](https://dpteam.github.io)| [![DPT.HQ](https://github.com/dpteam/dpt-resources/raw/master/Repos/191220_InterestingRepos/2_Overlay.mp4)](https://github.com/dpteam/dpt-hq-core)
+[📕 View Code Repository](https://github.com/dpteam/dpteam.github.io) | [📕 View Code Repository](https://github.com/dpteam/dpt-hq-core)
+[🐛 Report a Bug](https://github.com/dpteam/dpteam.github.io/issues/new) | [🐛 Report a Bug](https://github.com/dpteam/dpt-hq-core/issues/new)
+[💾 Download Repository](https://github.com/dpteam/dpteam.github.io/archive/master.zip) | [💾 Download Repository](https://github.com/dpteam/dpt-hq-core/archive/master.zip)
+
+Awesome DPT | Yamus
+-- | --
+[![Awesome DPT](https://github.com/dpteam/dpt-resources/raw/master/Repos/191220_InterestingRepos/3_Overlay.mp4)](https://github.com/dpteam/AwesomeDPT) | [![Yamus](https://github.com/dpteam/dpt-resources/raw/master/Repos/191220_InterestingRepos/4_Overlay.mp4)](https://github.com/dpteam/Yamus)
+[📕 View Code Repository](https://github.com/dpteam/AwesomeDPT) | [📕 View Code Repository](https://github.com/dpteam/Yamus)
+[🐛 Report a Bug](https://github.com/dpteam/AwesomeDPT/issues/new) | [🐛 Report a Bug](https://github.com/dpteam/Yamus/issues/new)
+[💾 Download Repository](https://github.com/dpteam/AwesomeDPT/archive/master.zip) | [💾 Download Repository](https://github.com/dpteam/Yamus/archive/master.zip)
+
+Cyberpunk 2077 SMT Patcher | DPTTS
+-- | --
+[![Cyberpunk 2077 SMT Patcher](https://github.com/dpteam/dpt-resources/raw/master/Repos/191220_InterestingRepos/5_Overlay.mp4)](https://github.com/dpteam/Cyberpunk2077_SMTPatcher) | [![DPTTS](https://github.com/dpteam/dpt-resources/raw/master/Repos/191220_InterestingRepos/6_Overlay.mp4)](https://github.com/dpteam/DPTTS)
+[📕 View Code Repository](https://github.com/dpteam/Cyberpunk2077_SMTPatcher) | [📕 View Code Repository](https://github.com/dpteam/DPTTS)
+[🐛 Report a Bug](https://github.com/dpteam/Cyberpunk2077_SMTPatcher/issues/new) | [🐛 Report a Bug](https://github.com/dpteam/DPTTS/issues/new)
+[💾 Download Repository](https://github.com/dpteam/Cyberpunk2077_SMTPatcher/archive/master.zip) | [💾 Download Repository](https://github.com/dpteam/DPTTS/archive/master.zip)
+
 # Личная инфа 😎
 
 Возраст: 25
