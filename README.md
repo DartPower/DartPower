@@ -1,14 +1,20 @@
-# Привет вселенная, я DartPower! 👋
-
 ![Banner](https://user-images.githubusercontent.com/2005369/88491727-ebc3f000-cfad-11ea-8609-e6e7b72d5a9e.png)
 
-Всем привет! Я разрабатываю модификации для ZDoom-based портов, немного маппер. Немного знаю C#, JS, HTML5.
+Привет вселенная, я DartPower! 👋
 
-А ещё я тимлид команды разработки, и по совместительству лидер игрового клана под названием DartPower Team.
+Занимаюсь разработкой модификаций для ZDoom-based портов.
 
-Самые основные проекты можно увидеть на странице вольной некоммерческой организации DartPower Team.
+Являюсь тимлидом команды разработки и лидером игрового клана DartPower Team.
 
-# Интересные репозитории:
+Немного знаю ![C#](https://img.shields.io/badge/-C%23-blue?logo=csharp&logoColor=white&style=flat-square)![js](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square)![html](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)![css](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square)![git](https://img.shields.io/badge/-Git-%23ea4f32?logo=git&logoColor=white&style=flat-square)
+
+## DartPower Github Stonks
+
+![Stonks](https://github-readme-stats.vercel.app/api?username=dartpower&show_icons=true&theme=default)
+
+![Просмотры профиля](https://gpvc.arturio.dev/dartpower)
+
+## Интересные репозитории и проекты:
 
 DartPower Team Site | DPT.HQ
 -- | --
@@ -31,7 +37,7 @@ Cyberpunk 2077 SMT Patcher | DPTTS
 [🐛 Я нашел баг!](https://github.com/dpteam/Cyberpunk2077_SMTPatcher/issues/new) | [🐛 Я нашел баг!](https://github.com/dpteam/DPTTS/issues/new)
 [💾 Скачать репозиторий](https://github.com/dpteam/Cyberpunk2077_SMTPatcher/archive/master.zip) | [💾 Скачать репозиторий](https://github.com/dpteam/DPTTS/archive/master.zip)
 
-# Личная инфа 😎
+## Личная инфа 😎
 
 Возраст: 25
 
@@ -49,7 +55,7 @@ Cyberpunk 2077 SMT Patcher | DPTTS
 
 Любимый жанр музыки: Space Ambient
 
-# Мой основной ПК 🖥️
+## Мой основной ПК 🖥️
 
 ОС: Microsoft Windows 10 Pro
 
@@ -85,7 +91,7 @@ SSD Накопитель: 232GB Western Digital WDC WDS250G1B0A-00H9H0
 
 Гарнитура: Kotion Each G2000
 
-# Мой второй ПК 🖥️
+## Мой второй ПК 🖥️
 
 ОС: Microsoft Windows 10 Pro
 
@@ -107,7 +113,7 @@ SSD Накопитель: 232GB Western Digital WDC WDS250G1B0A-00H9H0
 
 Гарнитура: Bloody G300
 
-# Мой третий ПК 🖥️
+## Мой третий ПК 🖥️
 
 ОС: Microsoft Windows XP Professional 32-bit SP3 Говносборка какая-то
 
@@ -135,7 +141,7 @@ SSD Накопитель: 232GB Western Digital WDC WDS250G1B0A-00H9H0
 
 Гарнитура: Фейковые китайские подвальные битсы (к счастью 6 лет без отвала одного из ушей заебись работают)
 
-# Мой четвертый ПК 🖥️
+## Мой четвертый ПК 🖥️
 
 ОС: Zorin OS 15.2 Lite
 
@@ -151,7 +157,7 @@ SSD Накопитель: 232GB Western Digital WDC WDS250G1B0A-00H9H0
 
 Видяха: AMD Radeon HD 8330
 
-# Мой ноутбук 💻
+## Мой ноутбук 💻
 
 ОС: Microsoft Windows 10 Pro
 
@@ -163,7 +169,7 @@ SSD Накопитель: 232GB Western Digital WDC WDS250G1B0A-00H9H0
 
 Видяха: NVIDIA GT 920M
 
-# Список консолей 🎮
+## Список консолей 🎮
 
 Sony Playstation 4 Slim
 
@@ -185,44 +191,34 @@ Brick Game 9999-in-1 (Тетрис)
 
 SEGA 16-bit Новодел + Старенький MegaDrive X
 
-# Будь на связи! 📱
+## Связь со мной 💭
 
-Хотите связаться со мной? Вот контакты для связи:
+<a href="https://vk.com/dartpower/"><img src="https://i.imgur.com/HPbL2vJ.png" width=16 height=16 align="center" /> ВКонтакте</a><br>
 
-📱 Телега - [DartPower](https://t.me/DartPower)
+<a href="https://t.me/DartPower"><img src="https://i.imgur.com/ywov8KH.png" width=16 height=16 align="center" /> Telegram</a><br>
 
-🎮 Discord - @DartPower#9034 или на сервере [DartPower Team Discord Server](https://discord.gg/74cQM9K)
+<a href="https://discord.gg/74cQM9K"><img src="https://i.imgur.com/SIENH3x.png" width=16 height=16 align="center" /> Discord: DartPower#9034</a><br>
 
-📷 Instagram - [@dartpower](https://www.instagram.com/dartpower/?hl=ru)
+<a href="http://steamcommunity.com/id/dartpower/"><img src="https://i.imgur.com/LQougMR.png" width=16 height=16 align="center" /> Steam</a><br>
 
-🎮 Steam - [/id/DartPower/](http://steamcommunity.com/id/dartpower/)
+<a href="https://psnprofiles.com/DartPower_"><img src="https://i.imgur.com/jyCWJoa.png" width=16 height=16 align="center" /> PSN</a><br>
 
-🎮 PSN - [DartPower_](https://psnprofiles.com/DartPower_)
+<a href="https://account.xbox.com/ru-ru/profile?gamertag=DartPower"><img src="https://i.imgur.com/AbXMMP5.png" width=16 height=16 align="center" /> Xbox Live</a><br>
 
-🎮 Xbox Live - [DartPower](https://account.xbox.com/ru-ru/profile?gamertag=DartPower)
-
-📷 YouTube - [/c/DartPower](https://www.youtube.com/c/DartPower)
-
-🤖 Reddit - [u/DartPower](https://www.reddit.com/user/DartPower)
+<a href="https://www.youtube.com/c/DartPower"><img src="https://i.imgur.com/fyY20te.png" width=16 height=16 align="center" /> YouTube</a><br>
 
 Неактив (связываюсь редко):
 
-👤 ВКонтакте - [Андрей Щеголев](https://vk.com/dartpower/)
+<a href="https://www.instagram.com/dartpower/?hl=ru"><img src="https://i.imgur.com/qHJzhrc.png" width=16 height=16 align="center" /> Instagram</a><br>
 
-📱 Скайп - skaker21
+<a href="https://www.reddit.com/user/DartPower"><img src="https://i.imgur.com/idHSIm8.png" width=16 height=16 align="center" /> Reddit</a><br>
 
-# Хотите поддержать? 💵
+<img src="https://i.imgur.com/1a8T1Lc.png" width=16 height=16 align="center" /> Скайп - skaker21<br>
 
-Есть ссылки на донат, на всякий случай оставлю и тут:
+## Поддержать
 
-http://www.donationalerts.ru/r/dartpower
+<a href="http://www.donationalerts.ru/r/dartpower"><img src="https://i.imgur.com/8z8kHZ7.png" width=16 height=16 align="center" /> DonationAlerts</a><br>
 
-https://qiwi.me/dartpower
+<a href="https://qiwi.me/dartpower"><img src="https://i.imgur.com/jwhTFwq.png" width=16 height=16 align="center" /> Qiwi</a><br>
 
-https://vk.me/moneysend/dartpower
-
-# Stonks 📈
-
-![DartPower github stats](https://github-readme-stats.vercel.app/api?username=dartpower&show_icons=true&theme=default)
-
-![DartPower's profile views](https://gpvc.arturio.dev/dartpower)
+<a href="https://vk.me/moneysend/dartpower"><img src="https://i.imgur.com/btAQcXZ.png" width=16 height=16 align="center" /> VKontakte</a><br>
