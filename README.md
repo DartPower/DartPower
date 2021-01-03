@@ -193,7 +193,7 @@ SEGA 16-bit Новодел + Старенький MegaDrive X
 
 ## Связь со мной 💭
 
-<a href="https://vk.com/dartpower/"><img src="https://i.imgur.com/HPbL2vJ.png" width=16 height=16 align="center" /> ВКонтакте</a><br>
+<a href="https://vk.com/dartpower/"><img src="https://i.imgur.com/btAQcXZ.png" width=16 height=16 align="center" /> ВКонтакте</a><br>
 
 <a href="https://t.me/DartPower"><img src="https://i.imgur.com/ywov8KH.png" width=16 height=16 align="center" /> Telegram</a><br>
 
@@ -221,4 +221,4 @@ SEGA 16-bit Новодел + Старенький MegaDrive X
 
 <a href="https://qiwi.me/dartpower"><img src="https://i.imgur.com/jwhTFwq.png" width=16 height=16 align="center" /> Qiwi</a><br>
 
-<a href="https://vk.me/moneysend/dartpower"><img src="https://i.imgur.com/btAQcXZ.png" width=16 height=16 align="center" /> VKontakte</a><br>
+<a href="https://vk.me/moneysend/dartpower"><img src="https://i.imgur.com/btAQcXZ.png" width=16 height=16 align="center" /> VK Pay</a><br>
