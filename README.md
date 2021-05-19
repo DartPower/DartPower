@@ -205,6 +205,8 @@ SEGA 16-bit Новодел + Старенький MegaDrive X
 
 <a href="https://account.xbox.com/ru-ru/profile?gamertag=DartPower"><img src="https://i.imgur.com/AbXMMP5.png" width=16 height=16 align="center" /> Xbox Live</a><br>
 
+<a><img src="https://i.imgur.com/FVOMAxT.png" width=16 height=16 align="center" /> Nintendo Switch: SW-1206-8239-6510 (DartPower)</a><br>
+
 <a href="https://www.youtube.com/c/DartPower"><img src="https://i.imgur.com/fyY20te.png" width=16 height=16 align="center" /> YouTube</a><br>
 
 Неактив (связываюсь редко):
