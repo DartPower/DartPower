@@ -177,13 +177,15 @@ Sony Playstation 2 Slim (Привод-брик)
 
 Sony Playstation Classic
 
+Nintendo Switch Lite
+
 Nintendo Wii
 
 JXD 7800b (EXEQ Aim Pro)
 
-x96 mini TV Box (Android 9.0 ATV Custom Firmware)
+x96 mini TV Box (Custom Firmware, Android 7/9, AOSP/ATV)
 
-Xbox 360 (NAND 0022 Brick)
+Xbox 360 (0022 NAND Brick)
 
 Brick Game 9999-in-1 (Тетрис)
 
