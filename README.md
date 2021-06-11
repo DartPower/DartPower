@@ -6,7 +6,7 @@
 
 Являюсь тимлидом команды разработки и лидером игрового клана DartPower Team.
 
-Немного знаю ![C#](https://img.shields.io/badge/-C%23-blue?logo=csharp&logoColor=white&style=flat-square)![js](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square)![html](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)![css](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square)![git](https://img.shields.io/badge/-Git-%23ea4f32?logo=git&logoColor=white&style=flat-square)
+Мой стек ![C#](https://img.shields.io/badge/-C%23-blue?logo=csharp&logoColor=white&style=flat-square)![js](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square)![html](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)![css](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square)![git](https://img.shields.io/badge/-Git-%23ea4f32?logo=git&logoColor=white&style=flat-square)
 
 ## DartPower Github Stonks
 
